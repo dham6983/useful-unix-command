@@ -1,6 +1,6 @@
 # useful-unix-command 
-Always run this commands and see the output by yourself to get used to with the output. I will keep adding more sections here.This is for my personal use.
-Please feel free to open PR to add more commands.
+Always run this commands and see the output by yourself to get yoiurself used to with the output. I will keep adding more sections here.This is for my personal use.
+Please feel free to open PR to add more commands/enhancements/example.
 
 
 ## ls commands ##
