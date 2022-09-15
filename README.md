@@ -1,10 +1,8 @@
 # useful-unix-command 
 Always run this commands and see the output by yourself to get used to with the output. I will keep adding more sections here.This is for my personal use.
 
-## Unix Commands ##
 
-### ls commands ###
-
+## ls commands ##
 
 `ls`- list all files in a directory
 
@@ -25,13 +23,13 @@ ls sourav*
 
 ```
 
-### ps commands ###
+## ps commands ##
 
 `ps -ef` list all running processes.
 
 `ps -ef | grep "process name"` list all process name matching the grep input.
 
-### viewing files ###
+## viewing files ##
 
 `more <filename>` view a file in the terminal window.
 
@@ -40,13 +38,13 @@ ls sourav*
 `cat <filename>` view entire file in the terminal window.
 
 
-### cp commands ###
+## cp commands ##
 
 `cp <source filename> <destination file name>` Copy source to destination.
 
 `cp -R <source directory name> <destination>` copying file recursively.
 
-### scp commands ###
+## scp commands ##
 
 `scp <source filename> <destination file name>` copying files between servers
 
@@ -56,14 +54,14 @@ ls sourav*
 
 `scp username@<source-remote-ip-address>:<source-file-path-name> username@<destination-remote-ip-address>:<source-file-path-name>` Copying file between two remote servers.
 
-### Miscellaneous command ###
+## Miscellaneous command ##
 
 `cd <path to dir>` change to directory.
 
 `clear` clears the screen
 
 `vi <filename>` create or edit a new file using vi editor. 
-##### Note : vi itself is a different beast. I will share vi shortcuts later.
+### Note : vi itself is a different beast. I will share vi shortcuts later.
 
 `netstat -an` shows the network output for current environment.
 
@@ -79,7 +77,7 @@ ls sourav*
 
 `pwd` - find the current working directory
 
-### grep commands ###
+## grep commands ##
 
 `grep -ir <regex> <filname>` 
 
@@ -87,7 +85,7 @@ ls sourav*
 - `-i`   : case insensitive
 - `-r`.  : recursively 
 
-### lspci commands ###
+## lspci commands ##
 
 `lspci` : List all harwardware components in the system
 
