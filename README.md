@@ -61,7 +61,8 @@ ls sourav*
 `clear` clears the screen
 
 `vi <filename>` create or edit a new file using vi editor. 
-### Note : vi itself is a different beast. I will share vi shortcuts later.
+
+**Note : vi itself is a different beast. I will share vi shortcuts later.**
 
 `netstat -an` shows the network output for current environment.
 
