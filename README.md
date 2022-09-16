@@ -1,4 +1,4 @@
-# useful-unix-command 
+# Useful Unix Command 
 Always run this commands and see the output by yourself to get yoiurself used to with the output. I will keep adding more sections here.This is for my personal use.
 Please feel free to open PR to add more commands/enhancements/example.
 
@@ -109,3 +109,7 @@ ls sourav*
 `ncdu /home/daygeek/Documents/` : Using ncurses method
 
 `tree --du -h /opt/ktube-media-downloader` : Using tree method
+
+## Comming Soon ##
+- `head` & `tail` command with basic example 
+- `tcpdump` command with example
