@@ -109,5 +109,3 @@ ls sourav*
 `ncdu /home/daygeek/Documents/` : Using ncurses method
 
 `tree --du -h /opt/ktube-media-downloader` : Using tree method
-
-Is this the end?
